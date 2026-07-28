@@ -1,2 +1,2 @@
 # ConsoleEngine
-Reactive engine for C# condole applications
+Reactive engine for C# console applications
